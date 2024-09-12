@@ -1,0 +1,22 @@
+.center {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 40%;
+}
+.bang {
+  border: 1px solid #0d0d0d;
+  text-align: left;
+  padding: 8px;
+  width: 60%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+body {
+  background-color: rgb(187, 209, 249);
+}

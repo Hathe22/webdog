@@ -1,0 +1,27 @@
+* {
+  color: white;
+  background-color: #595547;
+  font-family: "Trebuchet MS", "Verdana", sans-serif;
+}
+.title {
+  color: #9fc2f8;
+}
+h1 {
+  font-size: 40pt;
+}
+span {
+  color: yellow;
+}
+.imdb {
+  color: red;
+}
+img {
+  height: 300px;
+}
+
+.w3school {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+  width: 80px;
+  height: 30px;
+}
